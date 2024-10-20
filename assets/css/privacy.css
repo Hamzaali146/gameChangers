@@ -1,0 +1,41 @@
+
+body{
+    background-color:  hsl(236, 17%, 17%);
+    font-family: Poppins;
+    width: 100%;
+    overflow-x: hidden;
+    box-sizing: border-box;
+}
+
+.box{
+  margin: 100px 30px 120px 30px;
+  text-align: justify;
+}
+.mainhead{
+  font-size: 45px;
+  color: hsla(115, 86%, 57%, 0.75);
+  font-family: 'Oxanium', cursive;
+  padding-bottom: 40px;
+  padding-top: 20px;
+}
+.para{
+  color: hsl(220, 6%, 59%);
+  font-size: 17px;
+}
+pre{
+  font-family: Poppins;
+}
+
+.subhead{
+  color: white;
+  font-size: 20px;
+}
+.web{
+  display: inline;
+}
+
+
+
+
+
+
